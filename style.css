@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+    padding: 0;
+background-color: #F3F1FF;}
+
+
+/*---------------------- 
+---heading--part--start
+------------------------*/
+
+header{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+.heading-right a{
+    text-decoration: none;
+    color: white;
+    margin-right: 40px;
+}
+
+.heading{
+background-color: #562EFF;
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading-left img{
+    width: 40.42px;
+    height: 51px;
+
+}
+.heading-left{
+    display: flex;
+   
+}
+
+.heading-left h1{
+    color: white;
+}
+
+.heading-right img{
+    padding-top: 20px;
+}
+
+
+/*---------------------- 
+---heading--part--end
+------------------------*/
+
+
+.top-section{
+
+    width: 870px;
+    height: 680px;
+    background-color: white;
+    margin: 40px auto;
+    padding: 0%;
+   
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+    
+
+}
+
+/* .top-section:hover{
+    border: 1px solid  #562EFF;
+    padding: 0%;
+    
+} */
+
+.top-section h1{
+    color: #562EFF;
+    padding-top: 20px ;
+    padding-left: 80px;
+    font-weight: 500;
+}
+
+.player-info img{
+    height: 56px;
+    width: 56px;
+}
+
+.all-player-informations{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-top: 0px ;
+    padding-left: 80px;
+}
+
+ .hr-line{
+    border: 1px solid lightgray;
+    margin: 0px 70px;
+  
+}
+
+.hr-line:hover{
+    border: 2px solid #562EFF;
+} 
+
+.name{
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+.player-info{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* .player{
+padding-bottom: 10px;
+} */
+
+
+/* -----------
+----------------
+blogs-start
+--------------
+------------- */
+
+.blogs-info img{
+    height: 117px;
+    width: 177px;
+}
+
+.info{
+    font-weight: 600;
+    padding-left: 10px;
+}
+
+
+.blogs-info{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.all-blogs-informations{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding-bottom: 10px ;
+    padding-left: 80px;
+}
+
+.by-second-name{
+    color: lightgrey;
+    padding-left: 10px;
+}
+
+.by-name span{
+    color:#562EFF;
+}
+/* .blog{
+    padding-bottom: 10px;
+} */
+
+
+
+
+
+
+/* ///////////////
+------last part--start-
+
+*/
+
+.course-info img{
+    height: 104px;
+    width: 224px;
+}
+
+.all-courses{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding-bottom: 10px ;
+    padding-left: 80px;
+}
+
+.course-info{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 269px;
+    width: 252px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+
+.last-section{
+
+    width: 870px;
+    height: 362px;
+    background-color: white;
+    margin: 40px auto;
+    padding: 0%;
+   
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+    
+
+}
