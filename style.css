@@ -178,6 +178,8 @@ blogs-start
 .course-info img{
     height: 104px;
     width: 224px;
+    padding-left: 15px;
+    
 }
 
 .all-courses{
@@ -188,12 +190,14 @@ blogs-start
 }
 
 .course-info{
-    display: flex;
+    
     padding-top: 20px;
     padding-bottom: 20px;
-    height: 269px;
-    width: 252px;
+    height: 270px;
+    width: 253px;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-radius: 10px;
+    
 }
 
 .last-section{
@@ -212,4 +216,61 @@ blogs-start
 
     
 
+}
+
+.last-section h1{
+   
+    color: #562EFF;
+    padding-top: 20px ;
+    padding-left: 80px;
+    font-weight: 500;
+}
+
+.small-name{
+    color: #ED6B4F;
+    padding-left: 15px;
+}
+
+.info{
+    padding-left: 15px;
+}
+
+.fa-solid{
+    color: gold;
+    width: 12px;
+    height: 11px;
+    margin-right: 3px;
+}
+
+.fa-empty{
+    color: lightgray;
+    width: 12px;
+    height: 11px;
+    border: 0px;
+}
+
+.fa-regular{
+    height: 20px;
+    width: 20px;
+    color: #ED6B4F;
+}  
+.time{
+    border-radius: 15px;
+    background-color: #FFE4E8;
+    width: 95px;
+    height: 29px;
+    margin-left: 5px;
+    border: 0px;
+}
+
+.time-count{
+    color:#ED6B4F ;
+}
+
+.rating-part{
+    padding-left: 15px;
+}
+
+.rating{
+    color: grey;
 }
