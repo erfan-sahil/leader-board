@@ -68,7 +68,7 @@ background-color: #562EFF;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
 
-    
+    padding-bottom: 30px;
 
 }
 
@@ -214,6 +214,9 @@ blogs-start
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
 
+    padding-bottom: 50px;
+
+    padding-right: 50px;
     
 
 }
@@ -261,10 +264,12 @@ blogs-start
     height: 29px;
     margin-left: 5px;
     border: 0px;
+    padding-top: 7px;
 }
 
 .time-count{
     color:#ED6B4F ;
+    font-weight: 600;
 }
 
 .rating-part{
